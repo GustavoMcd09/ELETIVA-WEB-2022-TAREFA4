@@ -1,6 +1,7 @@
-function apagada() {
-    var lampada
-    lampada = document.getElementById("lampadadesligada")
-    lampada.src = "lampadaAmarela.png";
+function acender(){
+    document.getElementById("lampadapagada").src="lampadaAmarela.png";
 }
 
+function apagar(){
+    document.getElementById("lampadapagada").src="lampadaBranca.png";
+}
