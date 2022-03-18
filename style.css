@@ -8,6 +8,7 @@ img{
     width: 50%;
     margin-bottom: 1%;
     margin-left: 25%;
+    cursor: pointer;
 }
 
 button{
